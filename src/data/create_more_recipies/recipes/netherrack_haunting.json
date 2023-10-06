@@ -16,11 +16,6 @@
     "item": "minecraft:netherrack",
     "count": 1,
     "chance": 1
-  },
-  {
-    "item": "create:cinder_flour",
-    "count": 1,
-    "chance": 0.1
   }
 ]
 }
