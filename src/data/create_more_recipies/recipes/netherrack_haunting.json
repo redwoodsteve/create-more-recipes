@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ], 
+"results": [
+  {
+    "item": "minecraft:netherrack",
+    "count": 1,
+    "chance": 1
+  },
+  {
+    "item": "create:cinder_flour",
+    "count": 1,
+    "chance": 0.1
+  }
+]
+}
