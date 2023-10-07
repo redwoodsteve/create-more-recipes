@@ -19,10 +19,5 @@ authors="redwoodsteve"
 [[dependencies.create_more_recipies]]
     modId="create"
     mandatory=true
-    versionRange="[1.20.1]"
     ordering="NONE"
     side="BOTH"
-
-
-
-
