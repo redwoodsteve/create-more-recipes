@@ -8,7 +8,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "forge:blocks/coal"
+      "tag": "forge:storage_blocks/coal"
     },
     {
       "fluid": "minecraft:lava",
