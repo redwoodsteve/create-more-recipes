@@ -8,12 +8,12 @@
   "type": "create:haunting",
   "ingredients": [
     {
-      "item": "minecraft:cobblestone"
+      "item": "create:wheat_flour"
     }
   ], 
 "results": [
   {
-    "item": "minecraft:netherrack",
+    "item": "create:cinder_flour",
     "count": 1,
     "chance": 1
   }
