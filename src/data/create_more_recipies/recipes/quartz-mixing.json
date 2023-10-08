@@ -8,18 +8,14 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "minecraft:diorite"
-    },
-    {
-      "item": "minecraft:glass",
-      "count": 2
+      "tag": "forge:glass"
     }
   ], 
 "results": [
   {
     "item": "minecraft:quartz",
-    "count": 2,
-    "chance": 1
+    "count": 1,
+    "chance": 0.5
   }
 ],
 "heatRequirement": "heated"
