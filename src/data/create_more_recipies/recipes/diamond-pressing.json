@@ -5,7 +5,7 @@
       "modid": "create"
     }
   ],
-  "type": "create:mixing",
+  "type": "create:compacting",
   "ingredients": [
     {
       "tag": "forge:storage_blocks/coal"
