@@ -1,6 +1,7 @@
 modLoader="javafml"
 loaderVersion="[47,)"
 license="Academic Free License v3.0"
+logoFile="Create-more-recipes-logo.png"
 
 [[mods]]
 modId="create_more_recipies"
