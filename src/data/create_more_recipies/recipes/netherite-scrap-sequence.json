@@ -59,7 +59,7 @@
       "chance": 0.75
     },
     {
-      "item": "create:crushed_iron",
+      "item": "create:crushed_raw_iron",
       "chance": 0.25
     }
   ],
