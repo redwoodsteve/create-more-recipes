@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+logoFile="Create-more-recipes-logo.png"
+
+[[mods]]
+modId="create_more_recipies"
+version="1.0.0"
+displayName="Create More Recipies"
+credits="Adds some more recipes to the Create mod."
+displayURL="https://redwoodsteve.github.io"
+authors="redwoodsteve"
+
+[[dependencies.create_more_recipies]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.create_more_recipies]]
+    modId="create"
+    mandatory=true
+    versionRange="[0.5.1.a,)"
+    ordering="NONE"
+    side="BOTH"
